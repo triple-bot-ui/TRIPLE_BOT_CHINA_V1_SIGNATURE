@@ -11,4 +11,8 @@ Core validation engine for installation pre-check and deterministic load verific
 - requirements.txt → Dependencies
 
 ## Status
-Initial Lock – TB-CHN-V1-SIGNATURE
+
+- Phase: China Signature Initial Lock
+- Core: Deterministic Structural Kernel
+- Deployment: Local / Streamlit-ready
+- Governance: Founder-controlled validation layer
