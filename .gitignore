@@ -1,0 +1,5 @@
+tb_env/
+__pycache__/
+CHINA_DEMO_STRUCTURE.txt
+*.doc
+*.pdf
